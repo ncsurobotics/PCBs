@@ -1,0 +1,60 @@
+Change Component Designator: OldDesignator=C1_Channel1 NewDesignator=C1_Ch1
+Change Component Designator: OldDesignator=C1_Channel2 NewDesignator=C1_Ch2
+Change Component Designator: OldDesignator=C1_Channel3 NewDesignator=C1_Ch3
+Change Component Designator: OldDesignator=C1_Channel4 NewDesignator=C1_Ch4
+Change Component Designator: OldDesignator=C2_Channel1 NewDesignator=C2_Ch1
+Change Component Designator: OldDesignator=C2_Channel2 NewDesignator=C2_Ch2
+Change Component Designator: OldDesignator=C2_Channel3 NewDesignator=C2_Ch3
+Change Component Designator: OldDesignator=C2_Channel4 NewDesignator=C2_Ch4
+Change Component Designator: OldDesignator=C3_Channel1 NewDesignator=C3_Ch1
+Change Component Designator: OldDesignator=C3_Channel2 NewDesignator=C3_Ch2
+Change Component Designator: OldDesignator=C3_Channel3 NewDesignator=C3_Ch3
+Change Component Designator: OldDesignator=C3_Channel4 NewDesignator=C3_Ch4
+Change Component Designator: OldDesignator=IC1_Channel1 NewDesignator=IC1_Ch1
+Change Component Designator: OldDesignator=IC1_Channel2 NewDesignator=IC1_Ch2
+Change Component Designator: OldDesignator=IC1_Channel3 NewDesignator=IC1_Ch3
+Change Component Designator: OldDesignator=IC1_Channel4 NewDesignator=IC1_Ch4
+Change Component Designator: OldDesignator=J1_Channel1 NewDesignator=J1_Ch1
+Change Component Designator: OldDesignator=J1_Channel2 NewDesignator=J1_Ch2
+Change Component Designator: OldDesignator=J1_Channel3 NewDesignator=J1_Ch3
+Change Component Designator: OldDesignator=J1_Channel4 NewDesignator=J1_Ch4
+Change Component Designator: OldDesignator=P1_Channel1 NewDesignator=P1_Ch1
+Change Component Designator: OldDesignator=P1_Channel2 NewDesignator=P1_Ch2
+Change Component Designator: OldDesignator=P1_Channel3 NewDesignator=P1_Ch3
+Change Component Designator: OldDesignator=P1_Channel4 NewDesignator=P1_Ch4
+Change Component Designator: OldDesignator=R1_Channel1 NewDesignator=R1_Ch1
+Change Component Designator: OldDesignator=R1_Channel2 NewDesignator=R1_Ch2
+Change Component Designator: OldDesignator=R1_Channel3 NewDesignator=R1_Ch3
+Change Component Designator: OldDesignator=R1_Channel4 NewDesignator=R1_Ch4
+Change Component Designator: OldDesignator=R2_Channel1 NewDesignator=R2_Ch1
+Change Component Designator: OldDesignator=R2_Channel2 NewDesignator=R2_Ch2
+Change Component Designator: OldDesignator=R2_Channel3 NewDesignator=R2_Ch3
+Change Component Designator: OldDesignator=R2_Channel4 NewDesignator=R2_Ch4
+Change Net Name : Old Net Name=AGND_Channel1 New Net Name=AGND_Ch1
+Change Net Name : Old Net Name=AGND_Channel2 New Net Name=AGND_Ch2
+Change Net Name : Old Net Name=AGND_Channel3 New Net Name=AGND_Ch3
+Change Net Name : Old Net Name=AGND_Channel4 New Net Name=AGND_Ch4
+Change Net Name : Old Net Name=AMP_OUT_Channel1 New Net Name=AMP_OUT_Ch1
+Change Net Name : Old Net Name=AMP_OUT_Channel2 New Net Name=AMP_OUT_Ch2
+Change Net Name : Old Net Name=AMP_OUT_Channel3 New Net Name=AMP_OUT_Ch3
+Change Net Name : Old Net Name=AMP_OUT_Channel4 New Net Name=AMP_OUT_Ch4
+Change Net Name : Old Net Name=HPF_IN_Channel1 New Net Name=HPF_IN_Ch1
+Change Net Name : Old Net Name=HPF_IN_Channel2 New Net Name=HPF_IN_Ch2
+Change Net Name : Old Net Name=HPF_IN_Channel3 New Net Name=HPF_IN_Ch3
+Change Net Name : Old Net Name=HPF_IN_Channel4 New Net Name=HPF_IN_Ch4
+Change Net Name : Old Net Name=HPF_IN_UNBIASED_Channel1 New Net Name=HPF_IN_UNBIASED_Ch1
+Change Net Name : Old Net Name=HPF_IN_UNBIASED_Channel2 New Net Name=HPF_IN_UNBIASED_Ch2
+Change Net Name : Old Net Name=HPF_IN_UNBIASED_Channel3 New Net Name=HPF_IN_UNBIASED_Ch3
+Change Net Name : Old Net Name=HPF_IN_UNBIASED_Channel4 New Net Name=HPF_IN_UNBIASED_Ch4
+Change Net Name : Old Net Name=NetC2_Channel1_1 New Net Name=NetC2_Ch1_1
+Change Net Name : Old Net Name=NetC2_Channel2_1 New Net Name=NetC2_Ch2_1
+Change Net Name : Old Net Name=NetC2_Channel3_1 New Net Name=NetC2_Ch3_1
+Change Net Name : Old Net Name=NetC2_Channel4_1 New Net Name=NetC2_Ch4_1
+Change Class Name : Old Net Name=Channel1 New Net Name=Ch1
+Change Class Name : Old Net Name=Channel2 New Net Name=Ch2
+Change Class Name : Old Net Name=Channel3 New Net Name=Ch3
+Change Class Name : Old Net Name=Channel4 New Net Name=Ch4
+Added Room: Name=Ch1
+Added Room: Name=Ch2
+Added Room: Name=Ch3
+Added Room: Name=Ch4

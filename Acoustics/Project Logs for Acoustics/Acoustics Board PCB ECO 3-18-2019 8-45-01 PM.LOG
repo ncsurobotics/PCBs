@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=AGND_Ch1 Pin=C2A_HPF1-1
+Removed Pin From Net: NetName=GND Pin=C2A_HPF1-2
+Removed Pin From Net: NetName=AGND_Ch2 Pin=C2A_HPF2-1
+Removed Pin From Net: NetName=GND Pin=C2A_HPF2-2
+Removed Pin From Net: NetName=AGND_Ch3 Pin=C2A_HPF3-1
+Removed Pin From Net: NetName=GND Pin=C2A_HPF3-2
+Removed Pin From Net: NetName=AGND_Ch4 Pin=C2A_HPF4-1
+Removed Pin From Net: NetName=GND Pin=C2A_HPF4-2
+Removed Pin From Net: NetName=V+ Pin=C3A_HPF1-1
+Removed Pin From Net: NetName=AGND_Ch1 Pin=C3A_HPF1-2
+Removed Pin From Net: NetName=V+ Pin=C3A_HPF2-1
+Removed Pin From Net: NetName=AGND_Ch2 Pin=C3A_HPF2-2
+Removed Pin From Net: NetName=V+ Pin=C3A_HPF3-1
+Removed Pin From Net: NetName=AGND_Ch3 Pin=C3A_HPF3-2
+Removed Pin From Net: NetName=V+ Pin=C3A_HPF4-1
+Removed Pin From Net: NetName=AGND_Ch4 Pin=C3A_HPF4-2
+Removed Pin From Net: NetName=AGND_Ch1 Pin=R1A_HPF1-1
+Removed Pin From Net: NetName=AGND_Ch2 Pin=R1A_HPF2-1
+Removed Pin From Net: NetName=AGND_Ch3 Pin=R1A_HPF3-1
+Removed Pin From Net: NetName=AGND_Ch4 Pin=R1A_HPF4-1
+Removed Pin From Net: NetName=V+ Pin=R1F-1
+Removed Pin From Net: NetName=V+ Pin=R1FG-1
+Removed Pin From Net: NetName=AGND_Ch1 Pin=R2B_HPF1-1
+Removed Pin From Net: NetName=AGND_Ch2 Pin=R2B_HPF2-1
+Removed Pin From Net: NetName=AGND_Ch3 Pin=R2B_HPF3-1
+Removed Pin From Net: NetName=AGND_Ch4 Pin=R2B_HPF4-1
+Removed Pin From Net: NetName=V+ Pin=R2F-1
+Removed Pin From Net: NetName=V+ Pin=R2FG-1
+Removed Pin From Net: NetName=V+ Pin=R3F-1
+Removed Pin From Net: NetName=V+ Pin=R3FG-1
+Removed Pin From Net: NetName=V+ Pin=R4F-1
+Removed Pin From Net: NetName=V+ Pin=R4FG-1
+Removed Pin From Net: NetName=GND Pin=SW_LPFF-5
+Removed Pin From Net: NetName=GND Pin=SW_LPFF-6
+Removed Pin From Net: NetName=GND Pin=SW_LPFF-7
+Removed Pin From Net: NetName=GND Pin=SW_LPFF-8
+Removed Pin From Net: NetName=GND Pin=SW_LPFG-5
+Removed Pin From Net: NetName=GND Pin=SW_LPFG-6
+Removed Pin From Net: NetName=GND Pin=SW_LPFG-7
+Removed Pin From Net: NetName=GND Pin=SW_LPFG-8
+Removed Pin From Net: NetName=GND Pin=U3_HPF1-4
+Removed Pin From Net: NetName=V+ Pin=U3_HPF1-8
+Removed Pin From Net: NetName=GND Pin=U3_HPF2-4
+Removed Pin From Net: NetName=V+ Pin=U3_HPF2-8
+Removed Pin From Net: NetName=GND Pin=U3_HPF3-4
+Removed Pin From Net: NetName=V+ Pin=U3_HPF3-8
+Removed Pin From Net: NetName=GND Pin=U3_HPF4-4
+Removed Pin From Net: NetName=V+ Pin=U3_HPF4-8
+Removed Member From Class: ClassName=Acoustics Board Member=R1F
+Removed Member From Class: ClassName=Acoustics Board Member=R1FG
+Removed Member From Class: ClassName=Acoustics Board Member=R2F
+Removed Member From Class: ClassName=Acoustics Board Member=R2FG
+Removed Member From Class: ClassName=Acoustics Board Member=R3F
+Removed Member From Class: ClassName=Acoustics Board Member=R3FG
+Removed Member From Class: ClassName=Acoustics Board Member=R4F
+Removed Member From Class: ClassName=Acoustics Board Member=R4FG
+Removed Member From Class: ClassName=Acoustics Board Member=SW_LPFF
+Removed Member From Class: ClassName=Acoustics Board Member=SW_LPFG
+Added Pin To Net: NetName=GND Pin=U1_LPF1-5
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-6
+Added Pin To Net: NetName=GND Pin=U1_LPF1-7
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-8
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-9
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-10
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-11
+Added Pin To Net: NetName=V+ Pin=U1_LPF1-12
+Added Pin To Net: NetName=GND Pin=U1_LPF2-5
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-6
+Added Pin To Net: NetName=GND Pin=U1_LPF2-7
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-8
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-9
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-10
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-11
+Added Pin To Net: NetName=V+ Pin=U1_LPF2-12
+Added Pin To Net: NetName=GND Pin=U1_LPF3-5
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-6
+Added Pin To Net: NetName=GND Pin=U1_LPF3-7
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-8
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-9
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-10
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-11
+Added Pin To Net: NetName=V+ Pin=U1_LPF3-12
+Added Pin To Net: NetName=GND Pin=U1_LPF4-5
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-6
+Added Pin To Net: NetName=GND Pin=U1_LPF4-7
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-8
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-9
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-10
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-11
+Added Pin To Net: NetName=V+ Pin=U1_LPF4-12
+Added Pin To Net: NetName=LPF_IN_Ch1 Pin=C3_Ch1-2
+Added Pin To Net: NetName=LPF_IN_Ch1 Pin=R2_Ch1-2
+Added Pin To Net: NetName=LPF_IN_Ch1 Pin=U1_LPF1-16
+Added Net: Name=LPF_IN_Ch1
+Added Pin To Net: NetName=LPF_IN_Ch2 Pin=C3_Ch2-2
+Added Pin To Net: NetName=LPF_IN_Ch2 Pin=R2_Ch2-2
+Added Pin To Net: NetName=LPF_IN_Ch2 Pin=U1_LPF2-16
+Added Net: Name=LPF_IN_Ch2
+Added Pin To Net: NetName=LPF_IN_Ch3 Pin=C3_Ch3-2
+Added Pin To Net: NetName=LPF_IN_Ch3 Pin=R2_Ch3-2
+Added Pin To Net: NetName=LPF_IN_Ch3 Pin=U1_LPF3-16
+Added Net: Name=LPF_IN_Ch3
+Added Pin To Net: NetName=LPF_IN_Ch4 Pin=C3_Ch4-2
+Added Pin To Net: NetName=LPF_IN_Ch4 Pin=R2_Ch4-2
+Added Pin To Net: NetName=LPF_IN_Ch4 Pin=U1_LPF4-16
+Added Net: Name=LPF_IN_Ch4
