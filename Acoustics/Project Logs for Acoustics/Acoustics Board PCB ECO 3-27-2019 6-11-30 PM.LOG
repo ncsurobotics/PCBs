@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=V+ Pin=Power_Ch1-1
+Removed Pin From Net: NetName=GND Pin=Power_Ch1-2
+Removed Pin From Net: NetName=V+ Pin=Power_Ch3-1
+Removed Pin From Net: NetName=GND Pin=Power_Ch3-2
+Removed Pin From Net: NetName=V+ Pin=Power_Ch4-1
+Removed Pin From Net: NetName=GND Pin=Power_Ch4-2
+Removed Member From Class: ClassName=Ch1 Member=Power_Ch1
+Removed Member From Class: ClassName=Ch3 Member=Power_Ch3
+Removed Member From Class: ClassName=Ch4 Member=Power_Ch4
+Added Component: Designator=Power?_LPF1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Power?_LPF2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Power?_LPF3(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Power?_LPF4(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V+ Pin=Power?_LPF1-1
+Added Pin To Net: NetName=GND Pin=Power?_LPF1-2
+Added Pin To Net: NetName=V+ Pin=Power?_LPF2-1
+Added Pin To Net: NetName=GND Pin=Power?_LPF2-2
+Added Pin To Net: NetName=V+ Pin=Power?_LPF3-1
+Added Pin To Net: NetName=GND Pin=Power?_LPF3-2
+Added Pin To Net: NetName=V+ Pin=Power?_LPF4-1
+Added Pin To Net: NetName=GND Pin=Power?_LPF4-2
+Added Member To Class: ClassName=LPF1 Member=Component Power?_LPF1 (Power?) Header 2
+Added Member To Class: ClassName=LPF2 Member=Component Power?_LPF2 (Power?) Header 2
+Added Member To Class: ClassName=LPF3 Member=Component Power?_LPF3 (Power?) Header 2
+Added Member To Class: ClassName=LPF4 Member=Component Power?_LPF4 (Power?) Header 2
